@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+996caf42f64aaee1155ff4a863963eb445575b6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7923711569122d0dba162a70e633c509d7d52363")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
