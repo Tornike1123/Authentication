@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/DotnetAuth.csproj": {}
+    "/Users/macbook/Desktop/Authentication/DotnetAuth/DotnetAuth.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/DotnetAuth.csproj": {
+    "/Users/macbook/Desktop/Authentication/DotnetAuth/DotnetAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/DotnetAuth.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Authentication/DotnetAuth/DotnetAuth.csproj",
         "projectName": "DotnetAuth",
-        "projectPath": "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/DotnetAuth.csproj",
+        "projectPath": "/Users/macbook/Desktop/Authentication/DotnetAuth/DotnetAuth.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/obj/",
+        "outputPath": "/Users/macbook/Desktop/Authentication/DotnetAuth/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

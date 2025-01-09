@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2XK1n5zqRmg=",
+  "dgSpecHash": "je+FkAT4Tdg=",
   "success": true,
-  "projectFilePath": "/Users/macbook/Desktop/DotnetAuth/DotnetAuth/DotnetAuth.csproj",
+  "projectFilePath": "/Users/macbook/Desktop/Authentication/DotnetAuth/DotnetAuth.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
