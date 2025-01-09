@@ -8,3 +8,6 @@ public class ErrorResponse //API-ს შეცდომების მართ
 
     public int StatusCode { get; set; } //HTTP სტატუს კოდი (StatusCode)
 }
+
+
+//step 1

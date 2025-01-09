@@ -10,3 +10,6 @@ public class JwtSettings //ეს კლასი შეიცავს JWT(JSON
 
     public double Expires { get; set; } // Expires აღნიშნავს ტოკენის ვადის გასვლის ხანგრძლივობას, ჩვეულებრივ წამებში. 36000second = 1hour
 }
+
+
+//step 2
