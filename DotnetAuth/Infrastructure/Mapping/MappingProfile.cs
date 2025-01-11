@@ -20,3 +20,6 @@ public class MappingProfile : Profile
 //  ეს ხდება CreateMap<Source, Destination>() მეთოდით, სადაც:
 //  Source – არის საწყისი ობიექტის ტიპი (მაგ. ApplicationUser).
 //  Destination – არის მიზანი ობიექტის ტიპი (მაგ. UserResponse).
+
+
+//Step 5
