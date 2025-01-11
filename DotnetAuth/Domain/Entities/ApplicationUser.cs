@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 
 namespace DotnetAuth.Domain.Entities;
-
+//ბაზის მოდელი
 public class ApplicationUser : IdentityUser
 {
     public string FirstName { get; set; }
