@@ -22,3 +22,6 @@ public class ApplicationUser : IdentityUser
 // public class ApplicationUser : IdentityUser
 // ApplicationUser არის კლასი, რომელიც მემკვიდრეობს IdentityUser-ს.
 // IdentityUser წარმოადგენს ASP.NET Core Identity-ის მიერ დეფინირებულ კლასს, რომელიც შეიცავს საბაზისო მონაცემებს მომხმარებლის შესახებ
+
+
+//STEP 1

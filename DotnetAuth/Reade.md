@@ -1,4 +1,4 @@
-1.შევქმნათ ფოლდერები: Controllers,Domain,Exceptions,Infrastructure,Service
+1.შევქმნათ ფოლდერები: "Controllers","Domain","Exceptions","Infrastructure","Service","Entities(ბაზა)"
 2.Nuget: 
          1.AutoMapper,
          2.Microsoft.AspNetCore.Authentication.JwtBearer

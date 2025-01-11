@@ -12,4 +12,4 @@ public class JwtSettings //ეს კლასი შეიცავს JWT(JSON
 }
 
 
-//step 2
+//step 3

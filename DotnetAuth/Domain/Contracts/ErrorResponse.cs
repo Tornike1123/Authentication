@@ -10,4 +10,4 @@ public class ErrorResponse //API-ს შეცდომების მართ
 }
 
 
-//step 1
+//step 2
