@@ -2,9 +2,19 @@ using DotnetAuth.Domain.Contracts;
 
 namespace DotnetAuth.Service;
 
-public class UserServicesImpl : IUserServices
+public class UserServiceImpl : IUserServices
 {
     public Task<UserResponse> RegisterAsync(UserRegisterRequest request)
+    {
+        throw new NotImplementedException();
+    }
+    
+    public Task<UserResponse> LoginAsync(UserLoginRequest request)
+    {
+        throw new NotImplementedException();
+    }
+    
+    public Task<UserResponse> UpdateAsync(Guid id, UpdateUserRequest request)
     {
         throw new NotImplementedException();
     }
@@ -15,11 +25,6 @@ public class UserServicesImpl : IUserServices
     }
 
     public Task<UserResponse> GetByIdAsync(Guid id)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<UserResponse> UpdateAsync(Guid id, UpdateUserRequest request)
     {
         throw new NotImplementedException();
     }
@@ -35,11 +40,6 @@ public class UserServicesImpl : IUserServices
     }
 
     public Task<CurrentUserResponse> RefreshTokenAsync(RefreshTokenRequest request)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<UserResponse> LoginAsync(UserLoginRequest request)
     {
         throw new NotImplementedException();
     }
