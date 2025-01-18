@@ -14,7 +14,7 @@ public interface IUserServices
     Task<UserResponse> LoginAsync(UserLoginRequest request);//(UserRequestAndRespons-დან)
 }
 
-//IUserServices წარმოადგენს მომხმარებლის მართვის სისტემის მთავარ ინტერფეისს(იღებს UserRequestAndRespons-დან)
+//IUserService წარმოადგენს მომხმარებლის მართვის სისტემის მთავარ ინტერფეისს(იღებს UserRequestAndRespons-დან)
 // რეგისტრაცია
 // ავტორიზაცია და ტოკენების მართვა
 // მომხმარებლის დეტალების მიღება და განახლება

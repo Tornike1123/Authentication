@@ -9,16 +9,16 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace DotnetAuth.Service;
 
-public class TokenServiceImple : ITokenService
+public class TokenServiceImpl : ITokenService
 {
     private readonly SymmetricSecurityKey _secretKey; //გასაღები, რომელსაც იყენებს JWT ტოკენის ხელმოწერისთვის.
     private readonly string? _validAudience;//აუდიტორიის სახელწოდება (ვისთვის არის განკუთვნილი ტოკენი).
     private readonly string? _validIssuer;//გამომცემლის სახელი (ვინ გამოსცემს ტოკენს).
     private readonly double _expires;//ტოკენის ვადა (წუთებში).
     private readonly UserManager<ApplicationUser> _userManager;//მომხმარებლის მართვისთვის საჭირო სერვისი.
-    private readonly ILogger<TokenServiceImple> _logger;//ლოგის სისტემასთან ინტეგრაციისთვის.
+    private readonly ILogger<TokenServiceImpl> _logger;//ლოგის სისტემასთან ინტეგრაციისთვის.
 
-    public TokenServiceImple(IConfiguration configuration, UserManager<ApplicationUser> userManager)
+    public TokenServiceImpl(IConfiguration configuration, UserManager<ApplicationUser> userManager)
     {
     //IConfiguration configuration: კონფიგურაციისთვის (მაგ., appsettings.json).
     // UserManager<ApplicationUser> userManager: მომხმარებლის მართვისთვის.
